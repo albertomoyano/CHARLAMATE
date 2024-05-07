@@ -163,14 +163,15 @@ pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been 
        l.737 ...les impulsados por el \gls{@glo201-ceheal} 
 pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 753.
 pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 754.
-pg 23: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
+pg 15: LaTeX Warning: Empty bibliography on input line 755.
+pg 19: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
        .
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
        l.803 ...utilizando el lenguaje \gls{@glo200-latex} 
-pg 23: y el software gbTeXpublisher.
+pg 19: y el software gbTeXpublisher.
 
 After last page:
 
@@ -189,11 +190,12 @@ Package biblatex Warning: Please (re)run BibTeX on the file(s):
 
 Repeated messages:
     You need to define a glossary entry before you can use it.
-    in pages 9, 11, 13, 23 (file DUMMY) - 7 repetitions
+    in pages 9, 11, 13, 19 (file DUMMY) - 7 repetitions
     desde su creación en 2019...
     in pages 11, 13 (file DUMMY) - 4 repetitions
 
 Undefined citations:
+    @3070-TARKOVSKI1995 in page 9 (file DUMMY: line 667)
     @940-SHUMWAY1999 in page 11 (file DUMMY: line 695)
 
 ** texlogsieve got confused during log processing **
