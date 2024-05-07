@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1714872111 "presentacion.tex" "presentacion.pdf" "presentacion" 1714872112 0
+["pdflatex"] 1715048864 "presentacion.tex" "presentacion.pdf" "presentacion" 1715048866 0
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704400182 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1704400182 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -216,13 +216,14 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1713454322 4623317 a14e403ea671a9bc12f23e543c6a500e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713454301 6768049 95d0367ce3c1c787197a7fdfab807a9e ""
   "arbol2.pdf" 1714865820 1657077 8e01d6d0839f3bd0827bd04a822b332c ""
-  "ciclos.pdf" 1616376524 1202866 10791ee908abfd1653deab64d6fdbfa3 ""
+  "arbol3.pdf" 1715048806 1677069 3152f97a86e353306aff4d3a20ce4726 ""
+  "ciclos.pdf" 1715046830 1516405 d3d95eae6518a4569c0e8b619928ec2c ""
   "estrella.pdf" 1713630314 2014951 5c220cee99d01faf200e4ab1b970dc5f ""
-  "gutenberg.pdf" 1616379880 5319983 adb8d12df3da0a8ff9798d5523c79115 ""
-  "presentacion.aux" 1714872112 2401 b7e65b8ed3ca12db645801cdb008c77e "pdflatex"
-  "presentacion.nav" 1714872112 1198 a01d8e64810311581e9402bab739abf5 "pdflatex"
-  "presentacion.out" 1714872112 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentacion.tex" 1714872109 4283 d8632aeb3f5ee840a3900b0db4be4f70 ""
+  "gutenberg.pdf" 1715047013 5325439 130281d7386db17e9a2846f48503009c ""
+  "presentacion.aux" 1715048866 2528 9121d6efd724439dc91a18d3f3252400 "pdflatex"
+  "presentacion.nav" 1715048866 1289 5b3bd4f2b3095606c3cf71e152adc7cc "pdflatex"
+  "presentacion.out" 1715048865 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentacion.tex" 1715048844 4419 07ec9876bc74941c83d5a07162d4139f ""
   (generated)
   "presentacion.aux"
   "presentacion.log"

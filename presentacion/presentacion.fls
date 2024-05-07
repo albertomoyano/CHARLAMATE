@@ -1376,6 +1376,11 @@ INPUT ./arbol2.pdf
 INPUT arbol2.pdf
 INPUT ./arbol2.pdf
 INPUT ./arbol2.pdf
+INPUT ./arbol3.pdf
+INPUT ./arbol3.pdf
+INPUT arbol3.pdf
+INPUT ./arbol3.pdf
+INPUT ./arbol3.pdf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
