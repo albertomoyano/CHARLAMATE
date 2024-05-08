@@ -1,6 +1,4 @@
-![](mate.png)
-
-## Mate con editorxs. Charlas del CAICYT
+![](./media/mate.png)
 
 - **Mayo:** martes 14
 - **Horario:** 11 hs
