@@ -1,4 +1,4 @@
-![](.media/mate.png)
+![](mate.png)
 
 ## Mate con editorxs. Charlas del CAICYT
 
