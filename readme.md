@@ -7,9 +7,7 @@
 - Presentación del logo ARK-CAICYT
 - Espacio final para comentarios y pregunta
 
-A continuación el video de la chala
-
-{{< youtube J86Pm62XM_Q >}}
+Se puede acceder al video de la charla [desde acá]{https://www.youtube.com/watch?v=4c4hpXzGecM}.
 
 
 
