@@ -7,6 +7,10 @@
 - Presentación del logo ARK-CAICYT
 - Espacio final para comentarios y pregunta
 
+A continuación el video de la chala
+
+{{< youtube J86Pm62XM_Q >}}
+
 
 
 
