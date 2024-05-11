@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.4.18)  7 MAY 2024 23:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.4.18)  11 MAY 2024 16:21
  restricted system commands enabled.
 **pdf-CHARLAMATE.tex
 (./pdf-CHARLAMATE.tex
@@ -2336,18 +2336,18 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/logo-LaTeX.png, id=65, 602.25pt x 250.9375pt>
+<./media/mate.png, id=73, 292.09125pt x 117.43875pt>
+File: ./media/mate.png Graphic file (type png)
+<use ./media/mate.png>
+Package luatex.def Info: ./media/mate.png  used on input line 46.
+(luatex.def)             Requested size: 113.81102pt x 45.7597pt.
+ [5<./media/mate.png>]
+<./media/logo-LaTeX.png, id=79, 602.25pt x 250.9375pt>
 File: ./media/logo-LaTeX.png Graphic file (type png)
 <use ./media/logo-LaTeX.png>
-Package luatex.def Info: ./media/logo-LaTeX.png  used on input line 46.
+Package luatex.def Info: ./media/logo-LaTeX.png  used on input line 55.
 (luatex.def)             Requested size: 85.35826pt x 35.56367pt.
- [5<./media/logo-LaTeX.png>]
-<./media/logo-GNU.png, id=72, 1027.84pt x 1004.75375pt>
-File: ./media/logo-GNU.png Graphic file (type png)
-<use ./media/logo-GNU.png>
-Package luatex.def Info: ./media/logo-GNU.png  used on input line 55.
-(luatex.def)             Requested size: 56.9055pt x 55.6219pt.
-) [6<./media/logo-GNU.png>]
+) [6<./media/logo-LaTeX.png>]
 Package biblatex Info: Resetting trackers on input line 663.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 14.12686pt on input line 663.
@@ -2405,12 +2405,6 @@ l.667 ...ularidad caracterizó a \gls{@glo195-coas}
                                                   y también a muchos de sus...
 You need to define a glossary entry before you can use it.
 
-
-LaTeX Warning: Citation '@3070-TARKOVSKI1995' on page 9 undefined on input line
- 667.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 667.
 LaTeX Info: Redefining \. on input line 669.
 LaTeX Info: Redefining \% on input line 669.
 LaTeX Info: Redefining \. on input line 669.
@@ -2593,10 +2587,6 @@ l.695 ...les impulsados por el \gls{@glo201-ceheal}
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
-
-LaTeX Warning: Citation '@940-SHUMWAY1999' on page 1 undefined on input line 69
-5.
-
 LaTeX Info: Redefining \. on input line 697.
 LaTeX Info: Redefining \% on input line 697.
 LaTeX Info: Redefining \. on input line 697.
@@ -2620,11 +2610,11 @@ l.701 ...les impulsados por el \gls{@glo201-ceheal}
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
-<./media/imagen1.jpg, id=136, 229.5777pt x 125.9907pt>
+<./media/imagen1.jpg, id=153, 246.6816pt x 164.2938pt>
 File: ./media/imagen1.jpg Graphic file (type jpg)
 <use ./media/imagen1.jpg>
 Package luatex.def Info: ./media/imagen1.jpg  used on input line 706.
-(luatex.def)             Requested size: 312.9803pt x 171.77187pt.
+(luatex.def)             Requested size: 312.9803pt x 208.47028pt.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 10.61993pt on input line 707.
 
@@ -2643,9 +2633,12 @@ LaTeX Info: Redefining \. on input line 739.
 LaTeX Info: Redefining \% on input line 739.
 LaTeX Info: Redefining \. on input line 739.
 LaTeX Info: Redefining \% on input line 739.
-[3<./media/imagen1.jpg>] [4
-
-]
+[3<./media/imagen1.jpg>]
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+ [4]
 
 Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acrony
 m}]. Rerun may be required (or you may have forgotten to use commands like \gls
@@ -2656,21 +2649,41 @@ Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]
 . Rerun may be required (or you may have forgotten to use commands like \gls) o
 n input line 754.
 
+Package biblatex Info: Resetting trackers on input line 755.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 755.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.61993pt on input line 755.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
+[5
 
-LaTeX Warning: Empty bibliography on input line 755.
 
-(./names.ind) (./concepto.ind
+] [6
+
+] (./names.ind
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 783.
+LaTeX Info: Redefining \% on input line 783.
+LaTeX Info: Redefining \. on input line 783.
+LaTeX Info: Redefining \% on input line 783.
+ [7
+
+] [8
+
+] (./concepto.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
 LaTeX Info: Redefining \. on input line 784.
 LaTeX Info: Redefining \% on input line 784.
 LaTeX Info: Redefining \. on input line 784.
 LaTeX Info: Redefining \% on input line 784.
- [5
+ [9
 
-
-
-] [6
+] [10
 
 ] (./onomastico.ind
 Package biblatex Info: Resetting trackers on input line 1.
@@ -2679,9 +2692,10 @@ LaTeX Info: Redefining \. on input line 801.
 LaTeX Info: Redefining \% on input line 801.
 LaTeX Info: Redefining \. on input line 801.
 LaTeX Info: Redefining \% on input line 801.
- [7
 
-] [8
+[11
+
+] [12
 
 ]
 Package biblatex Info: Resetting trackers on input line 801.
@@ -2703,12 +2717,12 @@ LaTeX Info: Redefining \. on input line 808.
 LaTeX Info: Redefining \% on input line 808.
 LaTeX Info: Redefining \. on input line 808.
 LaTeX Info: Redefining \% on input line 808.
-[9] (/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
+[13] (/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [10]
+) [14]
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `texindy names.idx'.
@@ -2726,46 +2740,39 @@ LaTeX Info: Redefining \sptext on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 )
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `pdf-CHARLAMATE.out' has not changed.
-(rerunfilecheck)             Checksum: 00F7411BBD8D8215A0F3BEC7579E2D60;1062.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                pdf-CHARLAMATE
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 2501FDDCB8909C4DB5CA64AD92D0E848;1366.
 Package logreq Info: Writing requests to 'pdf-CHARLAMATE.run.xml'.
 
 \openout1 = pdf-CHARLAMATE.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 54137 strings out of 478285
+ 54192 strings out of 478285
  125134,2373549 words of node,token memory allocated
- 88402 words of node memory still in use:
-   490 hlist, 4 vlist, 248 rule, 4 ins, 683 disc, 196 local_par, 4 math, 1649 gl
-ue, 614 kern, 426 penalty, 56 margin_kern, 6415 glyph, 3959 attribute, 249 glue_
-spec, 567 attribute_list, 10 write, 2 pdf_literal, 32 pdf_start_link, 32 pdf_end
-_link, 8 pdf_dest, 17 pdf_action, 238 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sav
+ 100130 words of node memory still in use:
+   536 hlist, 4 vlist, 284 rule, 4 ins, 751 disc, 219 local_par, 4 math, 1851 gl
+ue, 709 kern, 476 penalty, 60 margin_kern, 7114 glyph, 5037 attribute, 273 glue_
+spec, 721 attribute_list, 26 write, 2 pdf_literal, 52 pdf_start_link, 52 pdf_end
+_link, 8 pdf_dest, 27 pdf_action, 294 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sav
 e, 6 pdf_restore nodes
-   avail lists: 1:7,2:301,3:110,4:18,5:102,6:2,7:1058,8:18,9:104,10:9,11:122
- 72005 multiletter control sequences out of 65536+600000
- 72 fonts using 12674943 bytes
+   avail lists: 1:7,2:301,3:54,4:18,5:102,6:2,7:1058,8:18,9:56,10:9,11:122
+ 72052 multiletter control sequences out of 65536+600000
+ 73 fonts using 13090631 bytes
  130i,7n,124p,2270b,2634s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/opentype/public/fourier/FourierOrns-Regular.otf></u
-sr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></
-usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold
-.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular
-.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
-if-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pdf-CHARLAMATE.pdf (20 pages, 680149 bytes).
+</usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-It
+alic.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
+sSerif-Bold.otf></usr/share/texmf-dist/fonts/opentype/public/fourier/FourierOrns
+-Regular.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed
+-SemiBold.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
+d-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libe
+rtinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on pdf-CHARLAMATE.pdf (24 pages, 212680 bytes).
 
-PDF statistics: 229 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 131072)
- 101 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 277 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 131072)
+ 117 words of extra memory for PDF output out of 10000 (max. 100000000)
 
