@@ -10,8 +10,8 @@ Number of math inlines: 0
 Number of math displayed: 1
 Subcounts:
   text+headers+captions (#headers/#floats/#inlines/#displayed)
-  4+0+0 (0/0/0/0) Chapter: \glsresetall
-  103+1+0 (1/0/0/0) Chapter: Frontmatter
+  2+0+0 (0/0/0/0) Chapter: \glsresetall
+  105+1+0 (1/0/0/0) Chapter: Frontmatter
   0+1+0 (1/0/0/0) Chapter: MainmatterA
   80+1+6 (1/0/0/1) Section: SecciónA
   44+1+0 (1/0/0/0) Section: SecciónAA
