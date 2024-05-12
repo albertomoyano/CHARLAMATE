@@ -92,6 +92,12 @@ pg 1: ! Package biblatex Error: Biber backend is required by style.
       l.30 \RequireBiber[3]
 pg 1: The selected style or one of the .bib files requires Biber.
 pg 1: It will not work at all with BibTeX..
+--------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty:
+pg 1: Inserting `homeoarchy' in `post_linebreak_filter'.
+----------------
+From file DUMMY:
+pg 1: Inserting `homoioteleuton' in `post_linebreak_filter'.
 -------------------------------------------
 From file ./files/gbTeXmeta-CHARLAMATE.tex:
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
@@ -155,8 +161,8 @@ pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been 
         ...                                              
                                                          
        l.730 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 751.
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 752.
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 746.
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 747.
 pg 23: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
        .
        See the glossaries package documentation for explanation.
