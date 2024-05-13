@@ -1403,9 +1403,6 @@ INPUT ./arbol3.pdf
 INPUT arbol3.pdf
 INPUT ./arbol3.pdf
 INPUT ./arbol3.pdf
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 OUTPUT presentacion.nav
 OUTPUT presentacion.toc
 OUTPUT presentacion.snm
@@ -1414,6 +1411,5 @@ INPUT ./presentacion.out
 INPUT ./presentacion.out
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb

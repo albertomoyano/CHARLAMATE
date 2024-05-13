@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1715560021 "presentacion.tex" "presentacion.pdf" "presentacion" 1715560022 0
+["pdflatex"] 1715565023 "presentacion.tex" "presentacion.pdf" "presentacion" 1715565024 0
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704400182 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1704400182 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
-  "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1704400182 4484 b828043cbd581d289d955903c1339981 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1704400182 2520 53e01eef820ca829e42c1333c3fd02b9 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm" 1704400182 4712 9ef4d7d106579d4b136e1529e1a4533c ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvro7t.tfm" 1704400182 2772 ab6561c8ff5ee69ff6d5961b9356db5a ""
@@ -31,10 +29,8 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1704400182 768 d7b9a2629a0c353102ad947dc9221d49 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1704400182 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb" 1704400182 24287 6b803fa9eb1ddff9112e00519b09dd9e ""
-  "/usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb" 1704400182 35941 f27169cc74234d5bd5e4cca5abafaabb ""
   "/usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb" 1704400182 44648 23115b2a545ebfe2c526c3ca99db8b95 ""
   "/usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb" 1704400182 48169 b4fd9d908b9ee8c65d4305ad39071c5e ""
-  "/usr/share/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf" 1704400182 1372 1c26b449eb4a1a0bcf6ac7cfe376d450 ""
   "/usr/share/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf" 1704400182 1372 dc841a9f00a1a11b1443367ae6c5588e ""
   "/usr/share/texmf-dist/fonts/vf/adobe/helvetic/phvro7t.vf" 1704400182 1372 9948cedecdb0445a3b5cf1b8a8082ab8 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1704400182 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -221,10 +217,10 @@
   "completo.pdf" 1715133393 2148484 7d59b1df57125438d83719e40f4e3b28 ""
   "estrella.pdf" 1713630314 2014951 5c220cee99d01faf200e4ab1b970dc5f ""
   "gutenberg.pdf" 1715047013 5325439 130281d7386db17e9a2846f48503009c ""
-  "presentacion.aux" 1715560022 2663 d1457b960f0c6e5e6f2639baf7b1f08d "pdflatex"
-  "presentacion.nav" 1715560022 1388 24a93f57ebf8aa6f2301785a5439a74f "pdflatex"
-  "presentacion.out" 1715560022 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentacion.tex" 1715560019 5027 a209c44d35a85f78a012ba9f26ca4ceb ""
+  "presentacion.aux" 1715565024 2534 3b60005d67a2ac13dbb8c662ad7b9f86 "pdflatex"
+  "presentacion.nav" 1715565024 1295 ef040a83926d85743749b42a2275f515 "pdflatex"
+  "presentacion.out" 1715565024 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentacion.tex" 1715565021 4811 45389e6125891ab4343aa60ede912eb2 ""
   (generated)
   "presentacion.aux"
   "presentacion.log"
