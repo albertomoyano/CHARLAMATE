@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.4.18)  11 MAY 2024 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.4.18)  12 MAY 2024 21:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1033,7 +1033,7 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-dist/font
 s/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic
 /uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on presentacion.pdf (13 pages, 14380743 bytes).
+Output written on presentacion.pdf (13 pages, 14380583 bytes).
 PDF statistics:
  476 PDF objects out of 1000 (max. 8388607)
  227 compressed objects within 3 object streams

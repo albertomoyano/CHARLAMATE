@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715455825 "presentacion.tex" "presentacion.pdf" "presentacion" 1715455827 0
+["pdflatex"] 1715560021 "presentacion.tex" "presentacion.pdf" "presentacion" 1715560022 0
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704400182 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1704400182 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -221,10 +221,10 @@
   "completo.pdf" 1715133393 2148484 7d59b1df57125438d83719e40f4e3b28 ""
   "estrella.pdf" 1713630314 2014951 5c220cee99d01faf200e4ab1b970dc5f ""
   "gutenberg.pdf" 1715047013 5325439 130281d7386db17e9a2846f48503009c ""
-  "presentacion.aux" 1715455826 2663 d1457b960f0c6e5e6f2639baf7b1f08d "pdflatex"
-  "presentacion.nav" 1715455826 1388 24a93f57ebf8aa6f2301785a5439a74f "pdflatex"
-  "presentacion.out" 1715455826 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentacion.tex" 1715455823 5038 4d3e21488552f4a6ad5ff9aa7349f949 ""
+  "presentacion.aux" 1715560022 2663 d1457b960f0c6e5e6f2639baf7b1f08d "pdflatex"
+  "presentacion.nav" 1715560022 1388 24a93f57ebf8aa6f2301785a5439a74f "pdflatex"
+  "presentacion.out" 1715560022 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentacion.tex" 1715560019 5027 a209c44d35a85f78a012ba9f26ca4ceb ""
   (generated)
   "presentacion.aux"
   "presentacion.log"
