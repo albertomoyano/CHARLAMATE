@@ -114,63 +114,9 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 26.
 ----------------
 From file DUMMY:
-pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
-      n defined.
-      See the glossaries package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.660 ...ción de \gls{@glo202-joseingenieros}\index
-pg 9: [onomastico]{Ingenieros, J...
-pg 9: You need to define a glossary entry before you can use it.
-pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
-      See the glossaries package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.660 ...ularidad caracterizó a \gls{@glo195-coas} 
-pg 9: y también a muchos de sus...
 pg 11: Capítulo 1.
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.668 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 11: desde su creación en 2019...
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.688 ...les impulsados por el \gls{@glo201-ceheal} 
 pg 13: Capítulo 2.
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.694 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.730 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 746.
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 747.
-pg 23: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
-       .
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.796 ...utilizando el lenguaje \gls{@glo200-latex} 
-pg 23: y el software gbTeXpublisher.
+pg 15: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 
@@ -185,10 +131,8 @@ Package imakeidx Warning: Remember to run lualatex again after calling
 ====  Summary:  ====
 
 Repeated messages:
-    You need to define a glossary entry before you can use it.
-    in pages 9, 11, 13, 23 (file DUMMY) - 7 repetitions
-    desde su creación en 2019...
-    in pages 11, 13 (file DUMMY) - 4 repetitions
+    Using TeX to sort glossary entries---this may take a while
+    in page 15 (file DUMMY) - 2 repetitions
 
 ** texlogsieve got confused during log processing **
    messages may be missing or filenames may be

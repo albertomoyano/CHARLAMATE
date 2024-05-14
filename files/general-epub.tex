@@ -1,10 +1,9 @@
-\documentclass[ebook,12pt,oneside,openany]{memoir}
-%\documentclass[oneside,onecolumn,openany,final]{book}
+%\documentclass[ebook,12pt,oneside,openany]{memoir}
+\documentclass[oneside,onecolumn,openany,final]{book}
 \usepackage{polyglossia}
 \setmainlanguage{spanish}
 \usepackage[autostyle=true]{csquotes}
 
-\usepackage{tex4ebook}
 \usepackage[style=authoryear,
 backend=bibtex8,
 sortcites=true,
@@ -17,39 +16,39 @@ indexing=cite]{biblatex}
 % \defcounter{biburllcpenalty}{9000}
 
 % Generar los índices, desactivamos las opciones para títulos
-% \renewbibmacro*{bibindex}{%
-%   \ifbibindex
-%     {\indexnames{author}%
-%      \indexnames{editor}%
-%      \indexnames{translator}%
-%      \indexnames{commentator}}
-%     {}}
+ \renewbibmacro*{bibindex}{%
+   \ifbibindex
+     {\indexnames{author}%
+      \indexnames{editor}%
+      \indexnames{translator}%
+      \indexnames{commentator}}
+     {}}
 
-% \renewbibmacro*{citeindex}{%
-%   \ifciteindex
-%     {\indexnames{author}%
-%      \indexnames{editor}%
-%      \indexnames{translator}%
-%      \indexnames{commentator}}
-%     {}}
+ \renewbibmacro*{citeindex}{%
+   \ifciteindex
+     {\indexnames{author}%
+      \indexnames{editor}%
+      \indexnames{translator}%
+      \indexnames{commentator}}
+     {}}
 
-% \usepackage[xindy]{imakeidx}
-% \makeindex[name=names,title=Índice de autores]
-% \makeindex
-% \makeindex[name=concepto,title=Índice de conceptos]
-% \makeindex[name=onomastico,title=Índice onomástico]
+ \usepackage[xindy]{imakeidx}
+ \makeindex[name=names,title=Índice de autores]
+ \makeindex
+ \makeindex[name=concepto,title=Índice de conceptos]
+ \makeindex[name=onomastico,title=Índice onomástico]
 
-% \usepackage{esindex}
-% \DeclareIndexNameFormat{default}{%
-%     \usebibmacro{index:name}{\esindex[names]}
-%     {\namepartfamily}
-%     {\namepartgiven}
-%     {\namepartprefix}
-%     {\namepartsuffix}}
-% \renewbibmacro*{citeindex}{%
-%     \ifciteindex
-%     {\indexnames{labelname}}
-%     {}}
+ \usepackage{esindex}
+ \DeclareIndexNameFormat{default}{%
+     \usebibmacro{index:name}{\esindex[names]}
+     {\namepartfamily}
+     {\namepartgiven}
+     {\namepartprefix}
+     {\namepartsuffix}}
+ \renewbibmacro*{citeindex}{%
+     \ifciteindex
+     {\indexnames{labelname}}
+     {}}
 
 % Diseño de la raya del medio
 \makeatletter
@@ -67,7 +66,7 @@ indexing=cite]{biblatex}
 \def\slash{/\penalty\z@\hskip\z@skip}
 \makeatother
 
-\usepackage{froufrou}
+%\usepackage{froufrou}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{svg}
