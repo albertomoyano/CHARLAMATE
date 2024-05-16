@@ -40,6 +40,17 @@ bibencoding=utf8]{biblatex}
 \usepackage{graphicx}
 \usepackage[labelfont=bf,font=small,labelsep=period,format=plain]{caption}
 
+% Nuevo tipo de entorno flotante para fotografías
+\usepackage{newfloat}
+\DeclareFloatingEnvironment[
+fileext=lop,
+listname={Índice de imágenes},
+name=Imagen,
+placement=ht,
+%within=section,% activate it if you want
+%chapterlistsgaps=on,% meaningful only if chapters exist
+]{imagen}
+
 % configuración de los valores decimales de los cuadros
 \usepackage{siunitx}
 \sisetup{output-decimal-marker={.},
@@ -76,28 +87,8 @@ detect-all}
 \makenoidxglossaries
 \renewcommand{\glsnamefont}[1]{\sf\textbf{\textup{#1}}}
 
-% Diseño y estilo a glosario y acrónimo
-\newglossarystyle{crossreflist}%
-{% base it on list (adapt as required)
-	\renewcommand*{\glossentry}[2]{%
-		\item[\glsentryitem{##1}%
-		\glstarget{##1}{\glossentryname{##1}}]
-		\glossentrydesc{##1}\glspostdescription\space ##2%
-		% check if the user1 key has been supplied:
-		\ifglshasfield{useri}{##1}%
-		{% do cross-reference
-			\newline
-			\glsletentryfield{\crossrefs}{##1}{useri}%
-			\glsseeformat[\emph{Véase:}]{\crossrefs}{}%
-		}%
-		{}%
-	}%
-}
-\setglossarystyle{crossreflist}
-
 % estos paquetes deben ir al final
 \usepackage{url}
-
 \usepackage{ifthen}
 
 % fin del preambulo
